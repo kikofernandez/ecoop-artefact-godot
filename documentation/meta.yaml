@@ -1,0 +1,28 @@
+---
+title: "Godot: All the Benefits of Implicit and Explicit Futures"
+author:
+- Kiko Fernandez-Reyes
+- Dave Clarke
+- Ludovic Henrio
+- Einar Broch Johnsen
+- Tobias Wrigstad
+header-includes:
+- |
+  ```{=html}
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Gentium+Basic|Inconsolata" rel="stylesheet">
+  ```
+- \lstset{breaklines=true}
+- \lstset{language=[Motorola68k]Assembler}
+- \lstset{basicstyle=\small\ttfamily}
+- \lstset{extendedchars=true}
+- \lstset{tabsize=2}
+- \lstset{columns=fixed}
+- \lstset{showstringspaces=false}
+- \lstset{frame=trbl}
+- \lstset{frameround=tttt}
+- \lstset{framesep=4pt}
+- \lstset{numbers=left}
+- \lstset{numberstyle=\tiny\ttfamily}
+- \lstset{postbreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\color{red}\hookrightarrow\space}}}
+---
