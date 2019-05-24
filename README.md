@@ -8,6 +8,8 @@ is the official one, and it is immutable (receiving no updates).
 This repository is a duplicate of the official one, excluding the Virtual Machine
 (which is bigger than what Github allows me to host here).
 
+(Note to myself: The internal scripts are located in [here](https://github.com/kikofernandez/scala-godot))
+
 ## Structure
 
 Brief summary of the folder structure:
