@@ -2,6 +2,11 @@
 
 This repository contains the up-to-date version of the ECOOP artefact for
 the paper *Godot: All the Benefits of Implicit and Explicit Futures*.
+The companion research artefact of the paper ([found here](http://filr.polacksbacken.uu.se/ssf/s/readFile/share/2267/-1137417964177284669/publicLink/GodotArtefact.zip))
+is the official one, and it is immutable (receiving no updates).
+
+This repository is a duplicate of the official one, excluding the Virtual Machine
+(which is bigger than what Github allows me to host here).
 
 ## Structure
 
